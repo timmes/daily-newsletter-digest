@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "theme": "AI tools for structured thinking and productivity",
+      "description": "Multiple newsletters covering Claude/AI tools not just for output speed but for improving judgment and structured thinking (Socratic Explorer, Brutal Critic, Pre-Mortem). AI gains are more modest than expected due to SDLC bottlenecks.",
+      "first_seen": "2026-03-19",
+      "last_seen": "2026-03-19",
+      "count": 1,
+      "sources": ["Age of Product", "Engineering Enablement", "Every"]
+    },
+    {
+      "theme": "Externalising tacit knowledge with AI agents",
+      "description": "The idea of encoding expert knowledge into AI agents (CLAUDE.md, knowledge bases) so it doesn't live only in one person's head — seen in both Platform PM and agile/engineering contexts.",
+      "first_seen": "2026-03-19",
+      "last_seen": "2026-03-19",
+      "count": 1,
+      "sources": ["The Platform Space", "Age of Product"]
+    },
+    {
+      "theme": "Engineering leadership and career growth",
+      "description": "Themes around overcoming self-limiting beliefs (spotlight effect), navigating performance reviews, and building leadership skills in an AI-changed landscape.",
+      "first_seen": "2026-03-19",
+      "last_seen": "2026-03-19",
+      "count": 1,
+      "sources": ["Engineering Leadership", "Level Up Newsletter", "Engineering Enablement"]
+    }
+  ]
+}

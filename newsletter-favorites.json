@@ -1,0 +1,21 @@
+{
+  "favorites": [
+    "Gregor Ojstersek from Engineering Leadership",
+    "Alex Craciun from The Platform Space",
+    "Engineering Enablement",
+    "Level Up Newsletter",
+    "Every",
+    "Fish Food for Thought"
+  ],
+  "topics": [
+    "artificial intelligence (AI)",
+    "machine learning (ml)",
+    "cloud computing",
+    "product management",
+    "developer tools",
+    "software architecture",
+    "leadership"
+  ],
+  "boost_factor": 2,
+  "max_items_per_newsletter": 5
+}
