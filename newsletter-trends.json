@@ -2,27 +2,43 @@
   "entries": [
     {
       "theme": "AI tools for structured thinking and productivity",
-      "description": "Multiple newsletters covering Claude/AI tools not just for output speed but for improving judgment and structured thinking (Socratic Explorer, Brutal Critic, Pre-Mortem). AI gains are more modest than expected due to SDLC bottlenecks.",
+      "description": "Multiple newsletters covering Claude/AI tools not just for output speed but for improving judgment and structured thinking (Socratic Explorer, Brutal Critic, Pre-Mortem). AI gains are more modest than expected due to SDLC bottlenecks. Now extending to AI style guides for voice consistency.",
       "first_seen": "2026-03-19",
-      "last_seen": "2026-03-19",
-      "count": 1,
+      "last_seen": "2026-03-20",
+      "count": 2,
       "sources": ["Age of Product", "Engineering Enablement", "Every"]
     },
     {
       "theme": "Externalising tacit knowledge with AI agents",
-      "description": "The idea of encoding expert knowledge into AI agents (CLAUDE.md, knowledge bases) so it doesn't live only in one person's head — seen in both Platform PM and agile/engineering contexts.",
+      "description": "The idea of encoding expert knowledge into AI agents (CLAUDE.md, knowledge bases, style guides) so it doesn't live only in one person's head — seen in both Platform PM and agile/engineering contexts.",
       "first_seen": "2026-03-19",
-      "last_seen": "2026-03-19",
-      "count": 1,
-      "sources": ["The Platform Space", "Age of Product"]
+      "last_seen": "2026-03-20",
+      "count": 2,
+      "sources": ["The Platform Space", "Age of Product", "Every"]
     },
     {
       "theme": "Engineering leadership and career growth",
-      "description": "Themes around overcoming self-limiting beliefs (spotlight effect), navigating performance reviews, and building leadership skills in an AI-changed landscape.",
+      "description": "Themes around overcoming self-limiting beliefs (spotlight effect), navigating performance reviews, building leadership skills in an AI-changed landscape, FDE role desirability, and AI-driven layoffs reshaping org structures.",
       "first_seen": "2026-03-19",
-      "last_seen": "2026-03-19",
+      "last_seen": "2026-03-20",
+      "count": 2,
+      "sources": ["Engineering Leadership", "Level Up Newsletter", "Engineering Enablement", "The Pragmatic Engineer"]
+    },
+    {
+      "theme": "AI agents disrupting open source workflows",
+      "description": "AI agents autonomously spamming repositories with low-quality PRs is breaking the open contribution model. Solutions like Vouch (vouching for contributors) are emerging to combat AI slop.",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
       "count": 1,
-      "sources": ["Engineering Leadership", "Level Up Newsletter", "Engineering Enablement"]
+      "sources": ["The Pragmatic Engineer"]
+    },
+    {
+      "theme": "AI lab consolidation and platform wars",
+      "description": "OpenAI acquires Astral (uv/Python tooling) for Codex; Microsoft threatens legal action over OpenAI/AWS deal; Cursor hikes prices silently. AI infrastructure and tooling is becoming a battleground.",
+      "first_seen": "2026-03-20",
+      "last_seen": "2026-03-20",
+      "count": 1,
+      "sources": ["The Pragmatic Engineer"]
     }
   ]
 }
