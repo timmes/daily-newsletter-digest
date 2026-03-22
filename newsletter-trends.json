@@ -4,40 +4,40 @@
       "theme": "AI tools for structured thinking and productivity",
       "description": "Multiple newsletters covering Claude/AI tools not just for output speed but for improving judgment and structured thinking (Socratic Explorer, Brutal Critic, Pre-Mortem). AI gains are more modest than expected due to SDLC bottlenecks. Extending to AI style guides for voice consistency and the 2-month quality degradation problem with agentic coding.",
       "first_seen": "2026-03-19",
-      "last_seen": "2026-03-21",
-      "count": 3,
+      "last_seen": "2026-03-22",
+      "count": 4,
       "sources": ["Age of Product", "Engineering Enablement", "Every", "The Pragmatic Engineer"]
     },
     {
       "theme": "Externalising tacit knowledge with AI agents",
       "description": "The idea of encoding expert knowledge into AI agents (CLAUDE.md, knowledge bases, style guides) so it doesn't live only in one person's head — seen in both Platform PM and agile/engineering contexts. Now extending to personal writing voice via AI style guides.",
       "first_seen": "2026-03-19",
-      "last_seen": "2026-03-21",
-      "count": 3,
+      "last_seen": "2026-03-22",
+      "count": 4,
       "sources": ["The Platform Space", "Age of Product", "Every"]
     },
     {
       "theme": "Engineering leadership and career growth",
       "description": "Themes around overcoming self-limiting beliefs, navigating performance reviews, building leadership skills in an AI-changed landscape, FDE role desirability, and AI-driven layoffs reshaping org structures (Block's 40% cut, xAI cofounder firings).",
       "first_seen": "2026-03-19",
-      "last_seen": "2026-03-21",
-      "count": 3,
+      "last_seen": "2026-03-22",
+      "count": 4,
       "sources": ["Engineering Leadership", "Level Up Newsletter", "Engineering Enablement", "The Pragmatic Engineer"]
     },
     {
       "theme": "AI agents disrupting open source workflows",
       "description": "AI agents autonomously spamming repositories with low-quality PRs is breaking the open contribution model. Solutions like Vouch (vouching for contributors) are emerging to combat AI slop. The 'anyone can open a PR' era may be ending.",
       "first_seen": "2026-03-20",
-      "last_seen": "2026-03-21",
-      "count": 2,
+      "last_seen": "2026-03-22",
+      "count": 3,
       "sources": ["The Pragmatic Engineer"]
     },
     {
       "theme": "AI lab consolidation and platform wars",
       "description": "OpenAI acquires Astral (uv/Python tooling) for Codex; Microsoft threatens legal action over OpenAI/AWS $50B deal breaching Azure exclusivity; Cursor hikes prices silently and launches Composer 2.0. AI infrastructure and tooling is becoming a fierce battleground.",
       "first_seen": "2026-03-20",
-      "last_seen": "2026-03-21",
-      "count": 2,
+      "last_seen": "2026-03-22",
+      "count": 3,
       "sources": ["The Pragmatic Engineer"]
     }
   ]
