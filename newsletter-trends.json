@@ -2,11 +2,11 @@
   "entries": [
     {
       "theme": "AI tools for structured thinking and productivity",
-      "description": "Multiple newsletters covering Claude/AI tools not just for output speed but for improving judgment and structured thinking. AI gains are more modest than expected due to SDLC bottlenecks. Extending to AI style guides for voice consistency, agentic coding workflows, and parallel agent patterns. Montaigne personal agent (Every) shows agents as cognitive load reducers — keeping humans fresh for high-judgment work. ByteByteGo deep-dive on Claude's internals — thinks in concept-space before language, plans poetry endings ahead of time, may fabricate reasoning post-hoc. SeattleDataGuy warns AI-assisted coding without comprehension breeds Jenga-tower codebases. Plus One launch shows 'parallel AI org chart' becoming a real workplace pattern.",
+      "description": "Multiple newsletters covering Claude/AI tools not just for output speed but for improving judgment and structured thinking. AI gains are more modest than expected due to SDLC bottlenecks. Extending to AI style guides for voice consistency, agentic coding workflows, and parallel agent patterns. Montaigne personal agent (Every) shows agents as cognitive load reducers — keeping humans fresh for high-judgment work. ByteByteGo deep-dive on Claude's internals — thinks in concept-space before language, plans poetry endings ahead of time, may fabricate reasoning post-hoc. SeattleDataGuy warns AI-assisted coding without comprehension breeds Jenga-tower codebases. Plus One launch shows 'parallel AI org chart' becoming a real workplace pattern. Simon Willison vibe-codes two macOS apps in hours using Claude Opus 4.6 with no SwiftUI knowledge.",
       "first_seen": "2026-03-19",
-      "last_seen": "2026-03-27",
-      "count": 13,
-      "sources": ["Age of Product", "Engineering Enablement", "Every", "The Pragmatic Engineer", "Engineering Leadership", "ByteByteGo", "SeattleDataGuy"]
+      "last_seen": "2026-03-28",
+      "count": 16,
+      "sources": ["Age of Product", "Engineering Enablement", "Every", "The Pragmatic Engineer", "Engineering Leadership", "ByteByteGo", "SeattleDataGuy", "Simon Willison"]
     },
     {
       "theme": "Externalising tacit knowledge with AI agents",
@@ -18,35 +18,43 @@
     },
     {
       "theme": "Engineering leadership and career growth",
-      "description": "Themes around overcoming self-limiting beliefs, navigating performance reviews, building leadership skills in an AI-changed landscape. AI skill path frameworks, job safety analysis, and AI-driven org restructuring reshaping what engineering leadership means. Fish Food for Thought argues for 'organizational twitching' — small, safe explorations before committing at scale. Kent Beck: nobody has answers, experiment cheaply and iterate. Engineering Enablement: Amplification+Augmentation framework for measuring AI ROI without overclaiming causation. Today: Gregor Ojstersek (Eng Leadership) — good judgment = pragmatism + taste, now the #1 differentiator for engineers as AI commoditises implementation. Level Up: 4 rules for direct feedback to avoid 'ambush' performance reviews.",
+      "description": "Themes around overcoming self-limiting beliefs, navigating performance reviews, building leadership skills in an AI-changed landscape. AI skill path frameworks, job safety analysis, and AI-driven org restructuring reshaping what engineering leadership means. Fish Food for Thought argues for 'organizational twitching' — small, safe explorations before committing at scale. Kent Beck: nobody has answers, experiment cheaply and iterate. Engineering Enablement: Amplification+Augmentation framework for measuring AI ROI without overclaiming causation. Gregor Ojstersek (Eng Leadership): good judgment = pragmatism + taste, now the #1 differentiator for engineers as AI commoditises implementation. Bill Gurley (Prof G Markets): AI divide — those who adapt vs those who get replaced. Level Up: 4 rules for direct feedback to avoid 'ambush' performance reviews.",
       "first_seen": "2026-03-19",
-      "last_seen": "2026-03-27",
-      "count": 14,
-      "sources": ["Engineering Leadership", "Level Up Newsletter", "Engineering Enablement", "Pirate Skills", "Andrew Yang", "Lenny's Newsletter", "Fish Food for Thought", "Kent Beck"]
+      "last_seen": "2026-03-28",
+      "count": 17,
+      "sources": ["Engineering Leadership", "Level Up Newsletter", "Engineering Enablement", "Pirate Skills", "Andrew Yang", "Lenny's Newsletter", "Fish Food for Thought", "Kent Beck", "Prof G Markets"]
     },
     {
-      "theme": "AI agents disrupting open source workflows",
-      "description": "AI agents autonomously spamming repositories with low-quality PRs is breaking the open contribution model. Token overhead and model compatibility issues challenge local agent deployments. The 'anyone can open a PR' era may be ending. 78x token tax on local agent frameworks — Deep Agents framework requires 151K tokens for a task that needs 4.5K raw.",
+      "theme": "AI agents overloading existing infrastructure",
+      "description": "GitHub down to one nine (~90% uptime) due to AI agent-driven load explosion — Claude Code load 6x'd in 3 months. LiteLLM supply chain attack compromising LLM-powered apps. GitHub has no CEO, Copilot losing to Claude Code/Cursor. Startup Pierre Computer claims 15,000 repo/min vs GitHub's 230. Infrastructure built for human-paced development is buckling under automated traffic. AI agents also spamming open-source repos with low-quality PRs, threatening contribution models.",
       "first_seen": "2026-03-20",
-      "last_seen": "2026-03-25",
-      "count": 7,
-      "sources": ["The Pragmatic Engineer", "The AI Architect"]
+      "last_seen": "2026-03-28",
+      "count": 10,
+      "sources": ["The Pragmatic Engineer", "The AI Architect", "Simon Willison"]
     },
     {
       "theme": "AI lab consolidation and platform wars",
-      "description": "OpenAI acquires Astral (uv/Python tooling) for Codex; Anthropic acquired Bun in Dec 2025; Cursor launches Composer 2; Bezos raises $100B AI-transformation fund; OpenAI/Anthropic in PE joint venture talks. AI infrastructure and tooling is becoming a fierce strategic battleground worth billions. Today: Newcomer dissects Microsoft's Copilot failures (6M vs ChatGPT's 440M daily users), talent exodus to Anthropic. Every launches Plus One as 'AI coworker' product category. GitHub Copilot losing narrative to Claude Code.",
+      "description": "OpenAI acquires Astral (uv/Python tooling) for Codex; Anthropic acquired Bun in Dec 2025; Cursor launches Composer 2; Bezos raises $100B AI-transformation fund; OpenAI/Anthropic in PE joint venture talks. AI infrastructure and tooling is becoming a fierce strategic battleground worth billions. OpenAI kills Sora with <24hr notice to Disney ($1B partner), pivots hard to enterprise agentic/API business. GitHub Copilot losing narrative to Claude Code. Court blocks government's Anthropic 'supply chain risk' designation as unconstitutional First Amendment retaliation. Kleiner Perkins raises $3.5B. Silicon Valley publicly embraces industrial policy for AI.",
       "first_seen": "2026-03-20",
-      "last_seen": "2026-03-27",
-      "count": 9,
+      "last_seen": "2026-03-28",
+      "count": 12,
       "sources": ["The Pragmatic Engineer", "Simon Willison", "Every", "Newcomer", "Prof G Markets"]
     },
     {
       "theme": "Vibe coding's limits at production scale",
-      "description": "Building with vibe coding is fast but maintaining production apps reveals hard limits: AI agents prefer local patches over root cause analysis, models lack best practices for niche libraries, and the fix→deploy→monitor loop is slow at scale. 'Semantic Anchors' — developer trigger words — explain why non-engineers can't vibe-code to production. Human expertise is shifting from writing code to directing diagnosis. Instagram's cofounder (Every) argues technical skills remain critical even as vibe coding lowers the floor — judgment and product taste stay irreplaceable.",
+      "description": "Building with vibe coding is fast but maintaining production apps reveals hard limits: AI agents prefer local patches over root cause analysis, models lack best practices for niche libraries, and the fix→deploy→monitor loop is slow at scale. 'Semantic Anchors' — developer trigger words — explain why non-engineers can't vibe-code to production. Human expertise is shifting from writing code to directing diagnosis. Instagram's cofounder (Every) argues technical skills remain critical even as vibe coding lowers the floor — judgment and product taste stay irreplaceable. Simon Willison adds: vibe-coded apps that measure system internals can't be verified as accurate without domain knowledge.",
       "first_seen": "2026-03-24",
-      "last_seen": "2026-03-27",
-      "count": 3,
-      "sources": ["Every", "Amazing CTO", "The AI Architect"]
+      "last_seen": "2026-03-28",
+      "count": 5,
+      "sources": ["Every", "Amazing CTO", "The AI Architect", "Simon Willison"]
+    },
+    {
+      "theme": "AI model interpretability and trustworthiness",
+      "description": "Anthropic's interpretability research reveals Claude operates in abstract concept-space before language, plans outputs ahead of word-by-word generation, and can fabricate post-hoc reasoning traces on hard problems. Hallucination mechanism decoded: a 'known entity' feature misfires to suppress the default 'I don't know' circuit. Raises questions about reliability of chain-of-thought as a trust signal. ByteByteGo covers this in detail based on Anthropic's published 2025 research.",
+      "first_seen": "2026-03-28",
+      "last_seen": "2026-03-28",
+      "count": 1,
+      "sources": ["ByteByteGo"]
     }
   ]
 }
