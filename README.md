@@ -11,6 +11,12 @@ An AI-powered daily digest of my newsletter subscriptions. Every morning at 06:0
 
 Built with [NanoClaw](https://github.com/qwibitai/nanoclaw) and Claude.
 
+## April 2026
+
+| Date | Digest |
+|------|--------|
+| 2026-04-01 | [Daily Newsletter Digest - 2026-04-01](2026/04/2026-04-01.md) |
+
 ## March 2026
 
 | Date | Digest |
