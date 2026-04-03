@@ -2,51 +2,93 @@
   "entries": [
     {
       "theme": "AI tools for structured thinking and productivity",
-      "description": "Multiple newsletters covering Claude/AI tools not just for output speed but for improving judgment and structured thinking. AI gains are more modest than expected due to SDLC bottlenecks. Extending to AI style guides for voice consistency, agentic coding workflows, and parallel agent patterns. Montaigne personal agent (Every) shows agents as cognitive load reducers — keeping humans fresh for high-judgment work. ByteByteGo deep-dive on Claude's internals — thinks in concept-space before language, plans poetry endings ahead of time, may fabricate reasoning post-hoc. SeattleDataGuy warns AI-assisted coding without comprehension breeds Jenga-tower codebases. Plus One launch shows 'parallel AI org chart' becoming a real workplace pattern. Simon Willison vibe-codes two macOS apps in hours using Claude Opus 4.6 with no SwiftUI knowledge. Every's Mike Taylor: AI note-taking MCPs capture 80-90% of AI's value. Hilary Gridley's 'anti-system' — narrating work to Claude reduces cognitive load without complex integrations. Every's 'Claudie' AI project manager onboarding shows agents need handbooks, context management, and progressive trust just like human hires.",
+      "description": "Multiple newsletters covering Claude/AI tools not just for output speed but for improving judgment and structured thinking. AI gains are more modest than expected due to SDLC bottlenecks. Extending to AI style guides for voice consistency, agentic coding workflows, and parallel agent patterns. Montaigne personal agent (Every) shows agents as cognitive load reducers \u2014 keeping humans fresh for high-judgment work. ByteByteGo deep-dive on Claude's internals \u2014 thinks in concept-space before language, plans poetry endings ahead of time, may fabricate reasoning post-hoc. SeattleDataGuy warns AI-assisted coding without comprehension breeds Jenga-tower codebases. Plus One launch shows 'parallel AI org chart' becoming a real workplace pattern. Simon Willison vibe-codes two macOS apps in hours using Claude Opus 4.6 with no SwiftUI knowledge. Every's Mike Taylor: AI note-taking MCPs capture 80-90% of AI's value. Hilary Gridley's 'anti-system' \u2014 narrating work to Claude reduces cognitive load without complex integrations. Every's 'Claudie' AI project manager onboarding shows agents need handbooks, context management, and progressive trust just like human hires. Every: Claude Code for Absolute Beginners workshop (April 14) \u2014 non-technical people building real tools in a day.",
       "first_seen": "2026-03-19",
-      "last_seen": "2026-04-02",
-      "count": 23,
-      "sources": ["Age of Product", "Engineering Enablement", "Every", "The Pragmatic Engineer", "Engineering Leadership", "ByteByteGo", "SeattleDataGuy", "Simon Willison", "Lenny's Newsletter"]
+      "last_seen": "2026-04-03",
+      "count": 24,
+      "sources": [
+        "Age of Product",
+        "Engineering Enablement",
+        "Every",
+        "The Pragmatic Engineer",
+        "Engineering Leadership",
+        "ByteByteGo",
+        "SeattleDataGuy",
+        "Simon Willison",
+        "Lenny's Newsletter"
+      ]
     },
     {
       "theme": "Externalising tacit knowledge with AI agents",
-      "description": "The idea of encoding expert knowledge into AI agents (CLAUDE.md, knowledge bases, style guides) so it doesn't live only in one person's head — seen in both Platform PM and agile/engineering contexts. Now extending to personal writing voice via AI style guides and engineering workflow documentation. Montaigne's knowledge layers (business context, MRR definitions, campaign briefs) show the pattern maturing into personal 'second brains'. Every's Plus One adds another layer: pre-loaded organizational context at onboarding. Every Consulting: map workflows into Google Sheet rows and systematically automate — goal is nobody does the same task three times. Every's Claudie onboarding: mandatory handbook read at startup is critical; living documents updated as roles expand.",
+      "description": "The idea of encoding expert knowledge into AI agents (CLAUDE.md, knowledge bases, style guides) so it doesn't live only in one person's head \u2014 seen in both Platform PM and agile/engineering contexts. Now extending to personal writing voice via AI style guides and engineering workflow documentation. Montaigne's knowledge layers (business context, MRR definitions, campaign briefs) show the pattern maturing into personal 'second brains'. Every's Plus One adds another layer: pre-loaded organizational context at onboarding. Every Consulting: map workflows into Google Sheet rows and systematically automate \u2014 goal is nobody does the same task three times. Every's Claudie onboarding: mandatory handbook read at startup is critical; living documents updated as roles expand.",
       "first_seen": "2026-03-19",
       "last_seen": "2026-04-02",
       "count": 14,
-      "sources": ["The Platform Space", "Age of Product", "Every", "Engineering Leadership"]
+      "sources": [
+        "The Platform Space",
+        "Age of Product",
+        "Every",
+        "Engineering Leadership"
+      ]
     },
     {
       "theme": "Engineering leadership and career growth",
-      "description": "Themes around overcoming self-limiting beliefs, navigating performance reviews, building leadership skills in an AI-changed landscape. AI skill path frameworks, job safety analysis, and AI-driven org restructuring reshaping what engineering leadership means. Fish Food for Thought argues for 'organizational twitching' — small, safe explorations before committing at scale. Kent Beck: nobody has answers, experiment cheaply and iterate. Engineering Enablement: Amplification+Augmentation framework for measuring AI ROI without overclaiming causation. Gregor Ojstersek (Eng Leadership): good judgment = pragmatism + taste, now the #1 differentiator for engineers as AI commoditises implementation. Bill Gurley (Prof G Markets): AI divide — those who adapt vs those who get replaced. Level Up: 4 rules for direct feedback to avoid 'ambush' performance reviews. AI fluency is the new interview signal: AI-avoidant and AI-dependent are both red flags; Level 2/3 engineers use AI as a thought partner while maintaining critical oversight. Level Up: Senior managers need 1-2 headline wins (not volume), personal trust networks, and visibility at skip level. Fish Food: Ariane 5 lesson — inherited assumptions are the most dangerous things we ship.",
+      "description": "Themes around overcoming self-limiting beliefs, navigating performance reviews, building leadership skills in an AI-changed landscape. AI skill path frameworks, job safety analysis, and AI-driven org restructuring reshaping what engineering leadership means. Fish Food for Thought argues for 'organizational twitching' \u2014 small, safe explorations before committing at scale. Kent Beck: nobody has answers, experiment cheaply and iterate. Engineering Enablement: Amplification+Augmentation framework for measuring AI ROI without overclaiming causation. Gregor Ojstersek (Eng Leadership): good judgment = pragmatism + taste, now the #1 differentiator for engineers as AI commoditises implementation. Bill Gurley (Prof G Markets): AI divide \u2014 those who adapt vs those who get replaced. Level Up: 4 rules for direct feedback to avoid 'ambush' performance reviews. AI fluency is the new interview signal: AI-avoidant and AI-dependent are both red flags; Level 2/3 engineers use AI as a thought partner while maintaining critical oversight. Level Up: Senior managers need 1-2 headline wins (not volume), personal trust networks, and visibility at skip level. Fish Food: Ariane 5 lesson \u2014 inherited assumptions are the most dangerous things we ship. Gregor: EM vs IC question revisited \u2014 IC and management tracks now have salary parity; middle management harder as AI expectations from leadership spike. Level Up: 15 negotiation secrets \u2014 build value first, then optimize the negotiation lift. Pragmatic Engineer: senior leaders returning to hands-on coding via AI tools.",
       "first_seen": "2026-03-19",
-      "last_seen": "2026-04-02",
-      "count": 26,
-      "sources": ["Engineering Leadership", "Level Up Newsletter", "Engineering Enablement", "Pirate Skills", "Andrew Yang", "Lenny's Newsletter", "Fish Food for Thought", "Kent Beck", "Prof G Markets"]
+      "last_seen": "2026-04-03",
+      "count": 29,
+      "sources": [
+        "Engineering Leadership",
+        "Level Up Newsletter",
+        "Engineering Enablement",
+        "Pirate Skills",
+        "Andrew Yang",
+        "Lenny's Newsletter",
+        "Fish Food for Thought",
+        "Kent Beck",
+        "Prof G Markets",
+        "The Pragmatic Engineer"
+      ]
     },
     {
       "theme": "AI agents overloading existing infrastructure",
-      "description": "GitHub down to one nine (~90% uptime) due to AI agent-driven load explosion — Claude Code load 6x'd in 3 months. LiteLLM supply chain attack compromising LLM-powered apps. GitHub has no CEO, Copilot losing to Claude Code/Cursor. Startup Pierre Computer claims 15,000 repo/min vs GitHub's 230. Infrastructure built for human-paced development is buckling under automated traffic. AI agents also spamming open-source repos with low-quality PRs, threatening contribution models. Stripe's minions now ship 1,300 PRs/week — bottleneck has fully shifted from writing to reviewing.",
+      "description": "GitHub down to one nine (~90% uptime) due to AI agent-driven load explosion \u2014 Claude Code load 6x'd in 3 months. LiteLLM supply chain attack compromising LLM-powered apps. GitHub has no CEO, Copilot losing to Claude Code/Cursor. Startup Pierre Computer claims 15,000 repo/min vs GitHub's 230. Infrastructure built for human-paced development is buckling under automated traffic. AI agents also spamming open-source repos with low-quality PRs, threatening contribution models. Stripe's minions now ship 1,300 PRs/week \u2014 bottleneck has fully shifted from writing to reviewing.",
       "first_seen": "2026-03-20",
       "last_seen": "2026-04-01",
       "count": 13,
-      "sources": ["The Pragmatic Engineer", "The AI Architect", "Simon Willison", "Lenny's Newsletter"]
+      "sources": [
+        "The Pragmatic Engineer",
+        "The AI Architect",
+        "Simon Willison",
+        "Lenny's Newsletter"
+      ]
     },
     {
       "theme": "AI lab consolidation and platform wars",
-      "description": "OpenAI acquires Astral (uv/Python tooling) for Codex; Anthropic acquired Bun in Dec 2025; Cursor launches Composer 2; Bezos raises $100B AI-transformation fund; OpenAI/Anthropic in PE joint venture talks. AI infrastructure and tooling is becoming a fierce strategic battleground worth billions. OpenAI kills Sora with <24hr notice to Disney ($1B partner), pivots hard to enterprise agentic/API business. GitHub Copilot losing narrative to Claude Code. Court blocks government's Anthropic 'supply chain risk' designation as unconstitutional First Amendment retaliation. Kleiner Perkins raises $3.5B. Silicon Valley publicly embraces industrial policy for AI. Coatue leaked slides project Anthropic at $1.995T valuation by 2030 on $200B revenue — currently at $19B ARR, ahead of projections. Anthropic beats OpenAI in Wing ET30 VC survey for top giga-stage startup.",
+      "description": "OpenAI acquires Astral (uv/Python tooling) for Codex; Anthropic acquired Bun in Dec 2025; Cursor launches Composer 2; Bezos raises $100B AI-transformation fund; OpenAI/Anthropic in PE joint venture talks. AI infrastructure and tooling is becoming a fierce strategic battleground worth billions. OpenAI kills Sora with <24hr notice to Disney ($1B partner), pivots hard to enterprise agentic/API business. GitHub Copilot losing narrative to Claude Code. Court blocks government's Anthropic 'supply chain risk' designation as unconstitutional First Amendment retaliation. Kleiner Perkins raises $3.5B. Silicon Valley publicly embraces industrial policy for AI. Coatue leaked slides project Anthropic at $1.995T valuation by 2030 on $200B revenue \u2014 currently at $19B ARR, ahead of projections. Anthropic beats OpenAI in Wing ET30 VC survey for top giga-stage startup. Anthropic acquires Coefficient Bio ($400M+ stock) for biotech AI \u2014 joining Health Care Life Sciences team; Dimension 38,513% IRR; contrasts with OpenAI's media acquisition same day.",
       "first_seen": "2026-03-20",
-      "last_seen": "2026-04-02",
-      "count": 18,
-      "sources": ["The Pragmatic Engineer", "Simon Willison", "Every", "Newcomer", "Prof G Markets"]
+      "last_seen": "2026-04-03",
+      "count": 19,
+      "sources": [
+        "The Pragmatic Engineer",
+        "Simon Willison",
+        "Every",
+        "Newcomer",
+        "Prof G Markets"
+      ]
     },
     {
       "theme": "Vibe coding's limits at production scale",
-      "description": "Building with vibe coding is fast but maintaining production apps reveals hard limits: AI agents prefer local patches over root cause analysis, models lack best practices for niche libraries, and the fix→deploy→monitor loop is slow at scale. 'Semantic Anchors' — developer trigger words — explain why non-engineers can't vibe-code to production. Human expertise is shifting from writing code to directing diagnosis. Instagram's cofounder (Every) argues technical skills remain critical even as vibe coding lowers the floor — judgment and product taste stay irreplaceable. Simon Willison adds: vibe-coded apps that measure system internals can't be verified as accurate without domain knowledge. Simon Willison this week demonstrated the ceiling and floor simultaneously: two functional macOS monitoring apps built from ~10 prompts each, with no SwiftUI knowledge.",
+      "description": "Building with vibe coding is fast but maintaining production apps reveals hard limits: AI agents prefer local patches over root cause analysis, models lack best practices for niche libraries, and the fix\u2192deploy\u2192monitor loop is slow at scale. 'Semantic Anchors' \u2014 developer trigger words \u2014 explain why non-engineers can't vibe-code to production. Human expertise is shifting from writing code to directing diagnosis. Instagram's cofounder (Every) argues technical skills remain critical even as vibe coding lowers the floor \u2014 judgment and product taste stay irreplaceable. Simon Willison adds: vibe-coded apps that measure system internals can't be verified as accurate without domain knowledge. Simon Willison this week demonstrated the ceiling and floor simultaneously: two functional macOS monitoring apps built from ~10 prompts each, with no SwiftUI knowledge.",
       "first_seen": "2026-03-24",
       "last_seen": "2026-03-31",
       "count": 7,
-      "sources": ["Every", "Amazing CTO", "The AI Architect", "Simon Willison"]
+      "sources": [
+        "Every",
+        "Amazing CTO",
+        "The AI Architect",
+        "Simon Willison"
+      ]
     },
     {
       "theme": "AI model interpretability and trustworthiness",
@@ -54,23 +96,42 @@
       "first_seen": "2026-03-28",
       "last_seen": "2026-03-30",
       "count": 2,
-      "sources": ["ByteByteGo", "Engineering Leadership"]
+      "sources": [
+        "ByteByteGo",
+        "Engineering Leadership"
+      ]
     },
     {
       "theme": "AI coding agents at enterprise scale",
-      "description": "Stripe's 'minions' ship 1,300 PRs/week triggered by Slack emoji reactions — the bottleneck has shifted from writing code to review capacity and idea generation. Cloud dev environments are non-negotiable for parallel agent work. Machine-to-machine payments (AI agents autonomously paying third-party services) enable ephemeral 'hyper-useful single API' businesses optimized for agent consumers rather than humans. Progressive trust model: start agents with limited access, expand as they prove reliable. Roblox's single MoE translation model handles 256 language pairs at 5,000+ chats/second — single unified model beats 256 separate models for maintenance and cross-language transfer learning. Engineering Enablement: AI-authored merged code steady at ~27-30%, with daily users leading adoption.",
+      "description": "Stripe's 'minions' ship 1,300 PRs/week triggered by Slack emoji reactions \u2014 the bottleneck has shifted from writing code to review capacity and idea generation. Cloud dev environments are non-negotiable for parallel agent work. Machine-to-machine payments (AI agents autonomously paying third-party services) enable ephemeral 'hyper-useful single API' businesses optimized for agent consumers rather than humans. Progressive trust model: start agents with limited access, expand as they prove reliable. Roblox's single MoE translation model handles 256 language pairs at 5,000+ chats/second \u2014 single unified model beats 256 separate models for maintenance and cross-language transfer learning. Engineering Enablement: AI-authored merged code steady at ~27-30%, with daily users leading adoption.",
       "first_seen": "2026-03-31",
-      "last_seen": "2026-04-02",
-      "count": 4,
-      "sources": ["Lenny's Newsletter", "ByteByteGo", "Engineering Enablement"]
+      "last_seen": "2026-04-03",
+      "count": 5,
+      "sources": [
+        "Lenny's Newsletter",
+        "ByteByteGo",
+        "Engineering Enablement"
+      ]
     },
     {
       "theme": "Legal AI market race",
       "description": "Harvey vs Legora as the defining two-man race in legal AI: Harvey ($11B valuation, $200M+ ARR) vs Legora ($5.5B, growing faster). Top-tier VCs split across both. Both built on foundation models (OpenAI/Anthropic/Google), creating platform risk. ElevenLabs tops Wing ET30 late-stage list; Anthropic beats OpenAI for top giga-stage startup. Vertical AI applications now respected by VCs who previously called them 'killing fields'. Newcomer: AI infrastructure is booming while application companies are still finding footing.",
       "first_seen": "2026-04-02",
-      "last_seen": "2026-04-02",
+      "last_seen": "2026-04-03",
+      "count": 2,
+      "sources": [
+        "Newcomer"
+      ]
+    },
+    {
+      "theme": "SaaS reinvention for the agent era",
+      "description": "Linear (product management, founded 2019) successfully pivoted to agent-native: agents now first-class users alongside humans, used by OpenAI and Coinbase to manage their own AI agents. Lesson: focus on understanding how AI changes customer workflows, not chasing AI feature trends. SaaS winners are building platforms that serve both human and agent users. The 'SaaS is dead' narrative overstates the case \u2014 the winners are those who adapted fastest.",
+      "first_seen": "2026-04-03",
+      "last_seen": "2026-04-03",
       "count": 1,
-      "sources": ["Newcomer"]
+      "sources": [
+        "Every"
+      ]
     }
   ]
 }
