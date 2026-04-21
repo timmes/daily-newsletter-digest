@@ -15,6 +15,7 @@ Built with [NanoClaw](https://github.com/qwibitai/nanoclaw) and Claude.
 
 | Date | Digest |
 |------|--------|
+| 2026-04-21 | [Daily Newsletter Digest - 2026-04-21](2026/04/2026-04-21.md) |
 | 2026-04-20 | [Daily Newsletter Digest - 2026-04-20](2026/04/2026-04-20.md) |
 | 2026-04-17 | [Daily Newsletter Digest - 2026-04-17](2026/04/2026-04-17.md) |
 | 2026-04-16 | [Daily Newsletter Digest - 2026-04-16](2026/04/2026-04-16.md) |
